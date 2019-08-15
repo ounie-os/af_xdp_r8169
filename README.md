@@ -1,2 +1,2 @@
 # af_xdp_r8169
-xdp driver for realtek network card
+The file is based on linux 4.18.10 mainline
